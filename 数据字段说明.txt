@@ -1,0 +1,19 @@
+field       Type    Unique  Example          Description
+font        string  153    'times'           font family
+fontVariant string  248    'times new roman' If the font image was from a scanner, 
+                                             the fontVariant is 'scanned' otherwise it is the font name.
+m_label     integer 20     33 to 65535       The character value, for instance 48 for the digit, '0'
+strength    real    2      .4                A value 0 to 1, indicating normal or bold
+italic      integer 2      1                 A flag, if 1, the image was computer generated with the an italic font.
+m_top       integer        13                The topmost black pixel row index in the original image from which the image was cut
+m_left      integer        43                The leftmost black pixel column index in the original image from which the image was cut
+originalH   integer        30                The original height of the image in pixels
+originalW   integer        36                The original width of the image in pixels
+h           integer 1      20                The image height in this sample, always 20
+w           integer 1      20                The image width in this sample, always 20
+r0c0        integer        0                 Row 0 Column 0 pixel value, 0 to 255, white is 0, 255 is black
+r0c1        integer        255               Row 0, Column 1 pixel value, 0 to 255
+...
+r19c19      integer        255               Row 19, Column 19 pixel value, 0 to 255
+
+(from http://archive.ics.uci.edu/ml/datasets/Character+Font+Images)

@@ -1,0 +1,30 @@
+IN EPOCH:   1
+Epoch:   1	Accuracy: 94.400%
+IN EPOCH:   2
+Epoch:   2	Accuracy: 95.747%
+IN EPOCH:   3
+Epoch:   3	Accuracy: 97.179%
+IN EPOCH:   4
+Epoch:   4	Accuracy: 99.158%
+IN EPOCH:   5
+Epoch:   5	Accuracy: 99.116%
+IN EPOCH:   6
+Epoch:   6	Accuracy: 98.695%
+IN EPOCH:   7
+Epoch:   7	Accuracy: 99.326%
+IN EPOCH:   8
+Epoch:   8	Accuracy: 99.032%
+IN EPOCH:   9
+Epoch:   9	Accuracy: 99.453%
+IN EPOCH:  10
+Epoch:  10	Accuracy: 99.789%
+IN EPOCH:  11
+Epoch:  11	Accuracy: 99.705%
+IN EPOCH:  12
+Epoch:  12	Accuracy: 99.621%
+IN EPOCH:  13
+Epoch:  13	Accuracy: 99.916%
+IN EPOCH:  14
+Epoch:  14	Accuracy: 99.958%
+IN EPOCH:  15
+Epoch:  15	Accuracy: 100.000%
